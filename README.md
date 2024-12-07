@@ -15,8 +15,10 @@
   
 <h1>GitHub Stats 📊</h1>
  
-![Mei's github stats](https://github-readme-stats.vercel.app/api?username=mo-shahab&show_icons=true&theme=dracula) 
+![My github stats](https://github-readme-stats.vercel.app/api?username=mo-shahab&show_icons=true&theme=dracula) 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mo-shahab&theme=dracula)](https://git.io/streak-stats) 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mo-shahab&layout=compact&langs_count=8&theme=rosepine&hide=php,html"/>
+
   
 <br>
 <!--  
