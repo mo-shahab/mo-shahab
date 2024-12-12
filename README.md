@@ -3,6 +3,7 @@
 
 ![](https://komarev.com/ghpvc/?username=mo-shahab&color=ff69b4&label=this_page_was_visited_these_many_times.)
 <br>
+<img width="350px" src="https://count.getloli.com/get/@mo-shahab"><br>
 <h1>About me</h1>
 
 - 📚 I love Working with computers.
