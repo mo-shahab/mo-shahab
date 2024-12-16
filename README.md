@@ -15,10 +15,25 @@
 <br>
   
 <h1>GitHub Stats 📊</h1>
- 
-![My github stats](https://github-readme-stats.vercel.app/api?username=mo-shahab&show_icons=true&theme=dracula)
-[![GitHub Streak](https://streak-stats.demolab.com?user=mo-shahab&theme=dracula)](https://git.io/streak-stats)
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mo-shahab&layout=compact&langs_count=8&theme=dracula&hide=php,html"/>
+
+<table>
+  <tr>
+    <th>Stats</th>
+    <th>Image</th>
+  </tr>
+  <tr>
+    <td>Github Overview</td>
+    <td><img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=mo-shahab&show_icons=true&theme=dracula"/></td>
+  </tr>
+  <tr>
+    <td>Github Streak</td>
+    <td><img height="180em" src="https://streak-stats.demolab.com?user=mo-shahab&theme=dracula"/></td>
+  </tr>
+  <tr>
+    <td>Language overview</td>
+    <td><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mo-shahab&layout=compact&langs_count=8&theme=dracula&hide=php,html"/></td>
+  </tr>
+</table> 
 
   
 <br>
